@@ -4,14 +4,14 @@
 
 ## Server List
 
-| Name | Static IP | Local Domain | GPU | Applications |
-| -------- |----| ------------ | --- | ------------ |
-| hal9000 | 10.0.0.6 | http://hal9000 | **RTX 3090** | |
-| wall-e | 10.0.0.7 | [http://wall-e](http://wall-e) | RTX 3080 | |
-| r2d2 | 10.0.0.4 | http://r2d2 | RTX 3080 | DNS |
-| ava | 10.0.0.x | http://ava | RTX 3080 | |
-| chappie | 10.0.0.x | http://chappie | RTX 3080 | |
-| t800 | 10.0.0.x | http://t800 | RTX 3080 | |
+| Name | Static IP | Local Domain | GPU | OS | Applications |
+| ---- | --------- | ------------ | --- |--- | ------------ |
+| hal9000 | 10.0.0.6 | http://hal9000 | **RTX 3090** | Ubuntu 20 | |
+| wall-e | 10.0.0.7 | [http://wall-e](http://wall-e) | RTX 3080 | Ubuntu 20 | |
+| r2d2 | 10.0.0.4 | http://r2d2 | RTX 3080 | Ubuntu 20 | DNS |
+| ava | 10.0.0.x | http://ava | RTX 3080 | | |
+| chappie | 10.0.0.x | http://chappie | RTX 3080 | | |
+| t800 | 10.0.0.x | http://t800 | RTX 3080 | | |
 
 ## Hardware Assembly
 
